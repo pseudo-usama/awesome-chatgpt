@@ -287,6 +287,7 @@
 
 - [GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache to store responses from LLM queries.
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from information sources.
+- [Hermex](https://github.com/pseudo-usama/hermex) - Automate ChatGPT and Gemini from Python via browser automation, without API keys or billing.
 
 ### Go
 
